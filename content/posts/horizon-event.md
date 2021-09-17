@@ -6,7 +6,7 @@ draft: true
 
 We live in a world of supposedly ['mutant' algorithms](https://www.bbc.co.uk/news/education-53923279): they mistake [black people for gorillas](https://www.independent.co.uk/life-style/gadgets-and-tech/news/google-photos-tags-black-people-gorillas-puts-pictures-special-folder-10357668.html); they preferentially hire [Jareds who played lacrosse in high school](https://qz.com/1427621/companies-are-on-the-hook-if-their-hiring-algorithms-are-biased/); and recently they even applied grades to [based on prior cohorts' achievement](https://en.wikipedia.org/wiki/Ofqual_exam_results_algorithm). Also, they broke democracy. It used to be that the computer simply said no, but now it sets the limits on your educational attainment, shapes your career path and, in some cases, [even sends you to jail](https://cacm.acm.org/magazines/2021/3/250698-can-the-biases-in-facial-recognition-be-fixed-also-should-they/fulltext).
 
-With this festival of twattery as a backdrop, one could be forgiven for feeling that we've handed over control of increasing parts of our lives to decreasingly accurate machines to better market dildos and galaxy lamps.
+With this festival of twattery as a backdrop, one could be forgiven for feeling that we've handed over control of increasing parts of our lives to decreasingly accurate machines for the purpose of more effectively marketing dildos and galaxy lamps.
 
 
 Example of a regression: sometimes when adding a feature (or even fixing an old bug!) one can introduce new bugs affecting old features
