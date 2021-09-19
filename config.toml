@@ -45,8 +45,7 @@ theme = "paper"
   [languages.en]
     languageName = "English"
     title = "PWM"
-    # subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    owner = "Peter Warner-Medley"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -61,12 +60,12 @@ theme = "paper"
       logoText = "PWM"
       logoHomeLink = "/"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+    # [languages.en.menu]
+    #   [[languages.en.menu.main]]
+    #     identifier = "about"
+    #     name = "About"
+    #     url = "/about"
+    #   [[languages.en.menu.main]]
+    #     identifier = "showcase"
+    #     name = "Showcase"
+    #     url = "/showcase"
