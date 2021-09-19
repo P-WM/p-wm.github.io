@@ -3,7 +3,7 @@ title: "Living And Working with Depression"
 date: 2019-01-20T00:27:24+01:00
 draft: false
 ---
-*Originally published [on Medium](https://medium.com/what-i-did-on-my-working-holiday/living-and-working-with-depression-eee1f9e18a8d)*
+*Originally posted [on Medium](https://medium.com/what-i-did-on-my-working-holiday/living-and-working-with-depression-eee1f9e18a8d)*
 
 I've suffered from depression for what feels like most of my adult life. From my late teens, I've had a few months of it pretty much every year with a chunky prodrome beforehand and plenty of residual symptoms after. It is an absolutely massive ball-ache.
 
